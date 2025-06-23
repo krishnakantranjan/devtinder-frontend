@@ -2,4 +2,7 @@
 
 - Create a React + vite project
 - Remove unnencessary file and Create a Hello world
+- tailwind css installed
+- daisyUI installed
+
 
