@@ -6,6 +6,7 @@
 - daisyUI installed
 - Add navbar component
 - Install react-router-dom
-
+- Create BrowserRouter, Routes, Route
+- Created Footer
 
 
