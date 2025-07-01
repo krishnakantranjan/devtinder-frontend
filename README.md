@@ -26,9 +26,6 @@
 - ConfigureStore => Provider => createStore => add reducer to store
 - Add redux DevTool in chrome
 - Refactor our code to add constant.js file and component folder
-
-
-
-
-
+- If token is not parsent the redirect to login page
+- Logout features
 
