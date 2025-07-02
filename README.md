@@ -28,4 +28,8 @@
 - Refactor our code to add constant.js file and component folder
 - If token is not parsent the redirect to login page
 - Logout features
+- Build our UserCard on feed
+- Edit profile 
+- Show toast masseage
+
 
