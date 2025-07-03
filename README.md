@@ -31,5 +31,6 @@
 - Build our UserCard on feed
 - Edit profile 
 - Show toast masseage
+- Connection and Request ui is built
 
 
