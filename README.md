@@ -32,5 +32,7 @@
 - Edit profile 
 - Show toast masseage
 - Connection and Request ui is built
+- Send interested or ignore from feed
+- Sign up Components Created.
 
 

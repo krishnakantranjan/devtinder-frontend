@@ -12,7 +12,7 @@ const ProfileEdit = ({ user }) => {
     const [age, setAge] = useState(user.age || '');
     const [error, setError] = useState('');
     const dispatch = useDispatch();
-    const navigate = useNavigate(); // ✅ fixed here
+    const navigate = useNavigate(); 
     const [showToast, setShowToast] = useState(false);
     const saveProfile = async () => {
         try {
